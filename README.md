@@ -30,9 +30,3 @@ We’re going to build a modern messaging app where users can sign up and log in
 >This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
 ![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
-
-![image](https://user-images.githubusercontent.com/86783184/173262866-b19e88d4-e320-4d75-81c8-775669fd0f9c.png)
-
-![image](https://user-images.githubusercontent.com/86783184/173262887-6904bea7-d5a7-42bf-8caa-62bd21d176f8.png)
-
-
